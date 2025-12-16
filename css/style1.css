@@ -1,0 +1,58 @@
+h1 { color: red; }
+
+  a {
+     color: red !important; 
+}
+
+p {
+   font-size: 18px; 
+   line-height: 1.6; 
+  }
+
+.highlight {
+   background-color: yellow; 
+   color: #333; 
+  }
+
+#main-title {
+  border-bottom: 2px 
+  solid #000; 
+}
+
+body {
+   font-family: Arial, sans-serif; 
+  }
+
+  h1 {
+     text-align: center; 
+    }
+
+    p {
+       font-weight: bold; font-style: italic; 
+      }
+
+      a { 
+        text-decoration: none; 
+      }
+
+      .product-card h2 { 
+        color: #0056b3; 
+      }
+
+      .price { 
+        color: red; 
+        font-weight: bold; 
+      }
+
+      #diskon { 
+        text-decoration: underline; 
+      }
+      .box { 
+        width: 200px; 
+        height: 100px; 
+        background-color: lightblue; 
+        border: 5px solid darkblue; 
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+
